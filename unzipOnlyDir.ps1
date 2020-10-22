@@ -1,5 +1,4 @@
 # zipのパスを入力してもらう
-Write-Host("zipファイル中の、フォルダのみを解凍します。")
 Write-Host("zipファイルのパスを入力してください。")
 $zipPath = Read-Host
 
